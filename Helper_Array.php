@@ -3,7 +3,7 @@ namespace frontend\components;
 /**
  * Helper_Array 类提供了一组简化数组操作的方法
  *
- * @author Tinico <zhuting@haowan123.com>
+ * @author admin
  */
 class Helper_Array {
 
